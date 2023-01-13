@@ -1,5 +1,4 @@
-# em-xash
-Xash emscripten port with hl mods.
-# Where is game images?
-In releases<br />
-(\\^-^)\\
+# em-xash/hl
+Xash3D emscripten port with Half-Life. 
+
+Original project by pixelsuft, Xash 3D created by FWGS.
